@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: OldStandard-Bold
+font link: https://fonts.google.com/specimen/Old+Standard+TT
+font author: Alexey Kryukov
+font author site: http://www.thessalonica.org.ru/en/
+
+
+icon designer: Alfredo @ IconsAlfredo.com
+icon designer link: /AlfredoCreates
+        
+{"bg":"transparent","icon-gradient-0":"#420F14","icon-gradient-1":"#C5545E","font":"#000000","slogan":"#141414"}
+      
